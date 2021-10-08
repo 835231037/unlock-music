@@ -1,3 +1,7 @@
+# 版权声明
+
+本项目原仓库为 [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music)。由于原项目以 MIT 协议授权，故此仓库在保留原 LICENSE 的情况下转载了原项目的代码。
+
 # Unlock Music 音乐解锁
 
 - 在浏览器中解锁加密的音乐文件。 Unlock encrypted music file in the browser.
